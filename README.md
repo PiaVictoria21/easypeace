@@ -1,4 +1,4 @@
-## README for Peace Mediation Tool
+## README for Peace Mediation Tool "Eady Peace"
 
 ### Project Overview
 This is an AI-driven **Peace Mediation Tool** designed to help individuals and groups navigate conflict in a constructive manner. The tool provides a structured framework for identifying issues, rephrasing conflicts to promote understanding, and suggesting potential resolutions for all parties involved.
